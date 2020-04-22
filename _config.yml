@@ -7,29 +7,28 @@ paginate: 5
 plugins: [jekyll-paginate]
 port: 4000
 safe: true
-url: http://jekyller.github.io/vitae
-author: Fábio Madeira
+url: http://kevinnguyen.github.io/
 
 # edit this section with your information
 # jekyller.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
-baseurl: /vitae/
-title: Chris Turner's Resume
-name: Chris Turner
-email: christurner@me.com
-email_full: mailto:youremail@me.com
-website: github.io/sustain
+baseurl: /
+title: Duc Nguyen's Resume
+name: Duc Nguyen
+email: duc.nguyen@integrify.io
+email_full: email:duc.nguyen@integrfy.io
+website:
 website_full: https://jekyller.github.io/sustain
-github: trending
+github: ducnguyen4993
 twitter: twitter
-tel: +44 0000 000000
-tel_full: tel:+440000000000
-google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
+tel: +358 46 686 49 90
+tel_full: tel:+358 46 686 49 90
+google_maps: 'https://www.google.com/maps/place/Ritakatu+13,+33530+Tampere/@61.5027093,23.827768,17z/data=!3m1!4b1!4m5!3m4!1s0x468f20984f63e255:0xfaa6bf62b6b777c1!8m2!3d61.5027068!4d23.8299567'
 address:
-  street: 44 Perth Street
-  postcode: EH3 5BL
-  city: Edinburgh
-  country: United Kingdom
+  street: Ritakatu, 13 F 9
+  postcode: 33530
+  city: Tampere
+  country: Finland
 google_analytics: UA-69300817-1
 
 # needed for travis-ci build
